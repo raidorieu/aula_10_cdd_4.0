@@ -4,6 +4,6 @@ for x in range(5):
 
 for y in range(4,-1,-1):
     vetor[y]= vetor[y]
-    print(vetor[y])
+    print(vetor[y], end=" ")
 
 
